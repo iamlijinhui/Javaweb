@@ -1,15 +1,15 @@
 package com.stu_info_manage.bean;
 
 /**
- * å­¦ç”Ÿå®ä½“ç±»
+ * Ñ§ÉúÊµÌåÀà
  * 
  *
  *
  */
 public class Student {
-	// å­¦ç”Ÿæ ‡è¯†
+	// Ñ§Éú±êÊ¶
 	private String studentId;
-	// å­¦ç”Ÿå¯†ç 
+	// Ñ§ÉúÃÜÂë
 	private String studentPwd;
 	
 
